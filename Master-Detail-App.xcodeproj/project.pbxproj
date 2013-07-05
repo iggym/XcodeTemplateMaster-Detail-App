@@ -58,6 +58,7 @@
 		9B4A477817871E6A005AE144 /* Master-Detail-AppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Master-Detail-AppTests-Info.plist"; sourceTree = "<group>"; };
 		9B4A477A17871E6A005AE144 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9B4A477C17871E6A005AE144 /* Master_Detail_AppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Master_Detail_AppTests.m; sourceTree = "<group>"; };
+		9B4A4786178725A7005AE144 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 		9B4A473F17871E6A005AE144 = {
 			isa = PBXGroup;
 			children = (
+				9B4A4786178725A7005AE144 /* README.md */,
 				9B4A475117871E6A005AE144 /* Master-Detail-App */,
 				9B4A477617871E6A005AE144 /* Master-Detail-AppTests */,
 				9B4A474A17871E6A005AE144 /* Frameworks */,
