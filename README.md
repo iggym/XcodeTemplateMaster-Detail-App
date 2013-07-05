@@ -1,4 +1,4 @@
-Master-Detail App Template from Xcode
+Master-Detail App Template 
 =====================
 A Master-Detail App Template from Xcode
 
