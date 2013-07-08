@@ -11,7 +11,7 @@
 #import "XcTDetailViewController.h"
 
 @interface XcTMasterViewController () {
-    NSMutableArray *_objects;
+    NSMutableArray *_objects; // holds the table view items
 }
 @end
 
